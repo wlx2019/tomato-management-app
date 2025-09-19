@@ -1,0 +1,8 @@
+{
+    "company_name": "汴河农品果蔬专业合作社",
+    "phone_number": "186-8640-5510",
+    "footer_text": "本结算单仅供内部参考，最终结算以实际为准。",
+    "excel_output_dir": "结算单",
+    "supabase_url": "https://rpmnpxwjccgtzryomnic.supabase.co",
+    "supabase_key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJwbW5weHdqY2NndHpyeW9tbmljIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTgxNjI2NzAsImV4cCI6MjA3MzczODY3MH0.PZsKpSsXba6bRHAYfpRAW4Wfm5hC1lHm3WJArwNUiPo"
+}

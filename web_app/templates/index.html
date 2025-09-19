@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>种植户记录 - 农业管理系统</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <h1>🍅 汴河农品番茄收发货管理</h1>
+            <nav>
+                <a href="/" class="active">种植户</a>
+                <a href="/clients">客户</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="page-title">
+            <h2>🧑‍🌾 种植户收购记录</h2>
+            <a href="/add_grower" class="btn btn-green">+ 添加记录</a>
+        </div>
+
+        <div class="search-wrapper">
+             <form action="/" method="get" class="search-form">
+                <input type="text" name="name" placeholder="输入姓名搜索..." value="{{ search_params.name or '' }}">
+                <input type="date" name="start_date" value="{{ search_params.start_date or '' }}">
+                <input type="date" name="end_date" value="{{ search_params.end_date or '' }}">
+                <button type="submit" class="btn btn-green">搜索</button>
+                <a href="/" class="reset-link">重置</a>
+            </form>
+        </div>
+        
+        <div class="table-wrapper">
+            <div class="table-container">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>日期</th><th>姓名</th><th>规格</th><th>毛重</th><th>次果</th><th>皮重</th><th>净重</th><th>单价</th><th>金额</th><th>备注</th><th class="text-center">操作</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for record in records %}
+                        <tr>
+                            <td>{{ record[1] }}</td><td>{{ record[2] }}</td><td>{{ record[3] }}</td>
+                            <td>{{ "%.2f"|format(record[4]) }}</td><td>{{ "%.2f"|format(record[5]) }}</td>
+                            <td>{{ "%.2f"|format(record[6]) }}</td><td>{{ "%.2f"|format(record[7]) }}</td>
+                            <td>{{ "%.2f"|format(record[8]) }}</td><td>{{ "%.2f"|format(record[9]) }}</td>
+                            <td>{{ record[10] }}</td>
+                            <td class="action-buttons">
+                                <a href="{{ url_for('edit_grower', record_id=record[0]) }}" class="btn btn-edit">编辑</a>
+                                <form action="{{ url_for('delete_grower', record_id=record[0]) }}" method="post" onsubmit="return confirm('确定要删除这条记录吗？');">
+                                    <button type="submit" class="btn btn-delete">删除</button>
+                                </form>
+                            </td>
+                        </tr>
+                        {% else %}
+                        <tr><td colspan="11" class="no-records">没有找到任何记录。</td></tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+         <div class="pagination">
+            {% if page > 1 %}<a href="{{ url_for('index', page=page-1, **search_params) }}">&laquo; 上一页</a>{% endif %}
+            <span>第 {{ page }} / {{ total_pages }} 页</span>
+            {% if page < total_pages %}<a href="{{ url_for('index', page=page+1, **search_params) }}">下一页 &raquo;</a>{% endif %}
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="footer-content">
+            <p>© 2025 汴河农品果蔬专业合作社 | 智慧农业 绿色未来</p>
+        </div>
+    </footer>
+</body>
+</html>

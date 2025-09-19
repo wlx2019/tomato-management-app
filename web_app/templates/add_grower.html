@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>添加种植户记录</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <h1>🌱 添加种植户记录</h1>
+            <nav>
+                <a href="/">返回列表</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container">
+        <div class="form-card">
+            <form action="/add_grower" method="post" class="entry-form" novalidate>
+                <div class="form-group"><label for="date">日期</label><input type="date" id="date" name="date" value="{{ today_date }}" required></div>
+                <div class="form-group"><label for="grower_name">姓名</label><input type="text" id="grower_name" name="grower_name" required></div>
+                <div class="form-group"><label for="spec">规格</label><input type="text" id="spec" name="spec" required></div>
+                <div class="form-group"><label for="gross_weight">毛重(斤)</label><input type="number" step="0.01" id="gross_weight" name="gross_weight" placeholder="例如: 100.5" required></div>
+                <div class="form-group"><label for="secondary_fruit">次果(斤)</label><input type="number" step="0.01" id="secondary_fruit" name="secondary_fruit" value="0"></div>
+                <div class="form-group"><label for="tare_weight">皮重(斤)</label><input type="number" step="0.01" id="tare_weight" name="tare_weight" value="0"></div>
+                <div class="form-group"><label for="unit_price">单价</label><input type="number" step="0.01" id="unit_price" name="unit_price" placeholder="例如: 2.5" required></div>
+                <div class="form-group full-width"><label for="notes">备注</label><textarea id="notes" name="notes" rows="3"></textarea></div>
+                <button type="submit" class="btn submit-btn btn-green full-width">保存记录</button>
+            </form>
+        </div>
+    </main>
+    
+    <footer class="footer">
+        <div class="footer-content">
+            <p>© 2025 汴河农品果蔬专业合作社 | 智慧农业 绿色未来</p>
+        </div>
+    </footer>
+</body>
+</html>

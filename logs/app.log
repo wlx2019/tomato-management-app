@@ -1,0 +1,955 @@
+2025-09-15 10:31:18,359 - INFO - 成功连接到数据库: records.db
+2025-09-15 10:31:18,387 - INFO - 所有数据表已确认或创建。
+2025-09-15 10:31:44,529 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-15 10:31:44,583 - INFO - 成功连接到数据库: records.db
+2025-09-15 10:31:44,583 - INFO - 所有数据表已确认或创建。
+2025-09-15 10:34:03,009 - INFO - 成功连接到数据库: records.db
+2025-09-15 10:34:03,009 - INFO - 所有数据表已确认或创建。
+2025-09-15 10:34:14,378 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-15 10:34:14,441 - INFO - 成功连接到数据库: records.db
+2025-09-15 10:34:14,441 - INFO - 所有数据表已确认或创建。
+2025-09-15 10:35:29,738 - INFO - 数据库连接已关闭。
+2025-09-15 10:39:55,623 - INFO - 成功连接到数据库: records.db
+2025-09-15 10:39:55,623 - INFO - 所有数据表已确认或创建。
+2025-09-15 10:42:13,523 - INFO - 成功连接到数据库: records.db
+2025-09-15 10:42:13,523 - INFO - 所有数据表已确认或创建。
+2025-09-15 10:42:22,987 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-15 10:42:23,035 - INFO - 成功连接到数据库: records.db
+2025-09-15 10:42:23,035 - INFO - 所有数据表已确认或创建。
+2025-09-15 10:42:33,939 - INFO - 数据库连接已关闭。
+2025-09-15 10:42:33,939 - INFO - 成功连接到数据库: records.db
+2025-09-15 10:42:41,743 - INFO - 数据库连接已关闭。
+2025-09-15 10:42:41,743 - INFO - 成功连接到数据库: records.db
+2025-09-15 10:42:51,872 - INFO - 数据库连接已关闭。
+2025-09-15 10:58:25,862 - INFO - 成功连接到数据库: records.db
+2025-09-15 10:58:25,873 - INFO - 所有数据表已确认或创建。
+2025-09-15 10:58:36,433 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-15 10:58:36,933 - INFO - 成功连接到数据库: records.db
+2025-09-15 10:58:36,933 - INFO - 所有数据表已确认或创建。
+2025-09-15 10:59:06,393 - INFO - 数据库连接已关闭。
+2025-09-15 11:06:14,998 - INFO - 成功连接到数据库: records.db
+2025-09-15 11:06:14,998 - INFO - 所有数据表已确认或创建。
+2025-09-15 11:06:22,847 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-15 11:06:23,384 - INFO - 成功连接到数据库: records.db
+2025-09-15 11:06:23,384 - INFO - 所有数据表已确认或创建。
+2025-09-15 11:12:27,369 - INFO - 数据库连接已关闭。
+2025-09-15 11:16:53,809 - INFO - 成功连接到数据库: records.db
+2025-09-15 11:16:53,809 - INFO - 所有数据表已确认或创建。
+2025-09-15 11:17:02,787 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-15 11:17:03,296 - INFO - 成功连接到数据库: records.db
+2025-09-15 11:17:03,296 - INFO - 所有数据表已确认或创建。
+2025-09-15 11:21:26,048 - INFO - 数据库连接已关闭。
+2025-09-15 11:25:40,617 - INFO - 成功连接到数据库: records.db
+2025-09-15 11:25:40,617 - INFO - 所有数据表已确认或创建。
+2025-09-15 11:25:48,149 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-15 11:25:48,659 - INFO - 成功连接到数据库: records.db
+2025-09-15 11:25:48,659 - INFO - 所有数据表已确认或创建。
+2025-09-15 11:27:32,157 - INFO - 数据库连接已关闭。
+2025-09-15 11:34:20,227 - INFO - 成功连接到数据库: records.db
+2025-09-15 11:34:20,243 - INFO - 所有数据表已确认或创建。
+2025-09-15 11:36:42,858 - INFO - 成功连接到数据库: records.db
+2025-09-15 11:36:42,870 - INFO - 所有数据表已确认或创建。
+2025-09-15 11:36:53,968 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-15 11:37:04,421 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-15 11:37:04,947 - INFO - 成功连接到数据库: records.db
+2025-09-15 11:37:04,947 - INFO - 所有数据表已确认或创建。
+2025-09-15 11:37:24,569 - INFO - 数据库连接已关闭。
+2025-09-15 13:38:04,027 - INFO - 成功连接到数据库: records.db
+2025-09-15 13:38:04,027 - INFO - 所有数据表已确认或创建。
+2025-09-15 13:38:10,406 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-15 13:38:10,646 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-15 13:38:11,156 - INFO - 成功连接到数据库: records.db
+2025-09-15 13:38:11,156 - INFO - 所有数据表已确认或创建。
+2025-09-15 13:41:13,087 - INFO - 成功连接到数据库: records.db
+2025-09-15 13:41:13,087 - INFO - 所有数据表已确认或创建。
+2025-09-15 13:41:24,354 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-15 13:41:24,624 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-15 13:41:25,155 - INFO - 成功连接到数据库: records.db
+2025-09-15 13:41:25,155 - INFO - 所有数据表已确认或创建。
+2025-09-15 13:44:34,645 - INFO - 成功连接到数据库: records.db
+2025-09-15 13:44:34,647 - INFO - 所有数据表已确认或创建。
+2025-09-15 13:44:43,305 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-15 13:44:43,555 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-15 13:44:44,104 - INFO - 成功连接到数据库: records.db
+2025-09-15 13:44:44,104 - INFO - 所有数据表已确认或创建。
+2025-09-15 13:47:57,727 - INFO - 成功连接到数据库: records.db
+2025-09-15 13:47:57,730 - INFO - 所有数据表已确认或创建。
+2025-09-15 13:48:18,294 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-15 13:48:18,549 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-15 13:48:19,074 - INFO - 成功连接到数据库: records.db
+2025-09-15 13:48:19,074 - INFO - 所有数据表已确认或创建。
+2025-09-15 13:52:40,411 - INFO - 成功连接到数据库: records.db
+2025-09-15 13:52:40,411 - INFO - 所有数据表已确认或创建。
+2025-09-15 13:52:48,105 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-15 13:52:48,360 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-15 13:52:48,886 - INFO - 成功连接到数据库: records.db
+2025-09-15 13:52:48,886 - INFO - 所有数据表已确认或创建。
+2025-09-15 14:07:08,168 - INFO - 成功连接到数据库: records.db
+2025-09-15 14:07:08,168 - INFO - 所有数据表已确认或创建。
+2025-09-15 14:07:14,695 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-15 14:07:15,292 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-15 14:07:15,810 - INFO - 成功连接到数据库: records.db
+2025-09-15 14:07:15,810 - INFO - 所有数据表已确认或创建。
+2025-09-15 14:08:11,243 - INFO - 数据库连接已关闭。
+2025-09-16 08:13:34,531 - INFO - 成功连接到数据库: records.db
+2025-09-16 08:13:34,531 - INFO - 所有数据表已确认或创建。
+2025-09-16 08:13:41,434 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-16 08:13:41,686 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-16 08:13:42,189 - INFO - 成功连接到数据库: records.db
+2025-09-16 08:13:42,190 - INFO - 所有数据表已确认或创建。
+2025-09-16 08:15:13,272 - INFO - 数据库连接已关闭。
+2025-09-16 11:43:15,852 - INFO - 成功连接到数据库: records.db
+2025-09-16 11:43:15,855 - INFO - 所有数据表已确认或创建。
+2025-09-16 11:43:21,457 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-16 11:43:22,023 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-16 11:43:22,543 - INFO - 成功连接到数据库: records.db
+2025-09-16 11:43:22,544 - INFO - 所有数据表已确认或创建。
+2025-09-16 11:46:59,988 - INFO - 成功连接到数据库: records.db
+2025-09-16 11:46:59,988 - INFO - 所有数据表已确认或创建。
+2025-09-16 11:47:13,761 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-16 11:47:14,029 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-16 11:47:14,555 - INFO - 成功连接到数据库: records.db
+2025-09-16 11:47:14,555 - INFO - 所有数据表已确认或创建。
+2025-09-16 11:48:28,156 - INFO - 数据库连接已关闭。
+2025-09-16 13:48:33,720 - INFO - 成功连接到数据库: records.db
+2025-09-16 13:48:33,720 - INFO - 所有数据表已确认或创建。
+2025-09-16 13:48:41,441 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-16 13:48:41,688 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-16 13:48:42,186 - INFO - 成功连接到数据库: records.db
+2025-09-16 13:48:42,186 - INFO - 所有数据表已确认或创建。
+2025-09-16 13:49:07,715 - INFO - 数据库连接已关闭。
+2025-09-16 14:02:25,818 - INFO - 成功连接到数据库: records.db
+2025-09-16 14:02:25,818 - INFO - 所有数据表已确认或创建。
+2025-09-16 14:02:35,130 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-16 14:02:35,395 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-16 14:02:35,895 - INFO - 成功连接到数据库: records.db
+2025-09-16 14:02:35,895 - INFO - 所有数据表已确认或创建。
+2025-09-17 08:20:28,263 - INFO - 数据库连接已关闭。
+2025-09-17 09:07:16,048 - INFO - 成功连接到数据库: records.db
+2025-09-17 09:07:16,048 - INFO - 所有数据表已确认或创建。
+2025-09-17 09:07:26,128 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-17 09:07:26,395 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 09:07:26,980 - INFO - 成功连接到数据库: records.db
+2025-09-17 09:07:26,980 - INFO - 所有数据表已确认或创建。
+2025-09-17 09:10:57,532 - INFO - 成功连接到数据库: records.db
+2025-09-17 09:10:57,532 - INFO - 所有数据表已确认或创建。
+2025-09-17 09:11:06,209 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-17 09:11:06,447 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 09:11:06,978 - INFO - 成功连接到数据库: records.db
+2025-09-17 09:11:06,978 - INFO - 所有数据表已确认或创建。
+2025-09-17 09:16:05,553 - INFO - 数据库连接已关闭。
+2025-09-17 09:17:15,978 - INFO - 成功连接到数据库: records.db
+2025-09-17 09:17:15,978 - INFO - 所有数据表已确认或创建。
+2025-09-17 09:17:24,374 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-17 09:17:24,622 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 09:17:25,133 - INFO - 成功连接到数据库: records.db
+2025-09-17 09:17:25,133 - INFO - 所有数据表已确认或创建。
+2025-09-17 09:21:03,903 - INFO - 成功连接到数据库: records.db
+2025-09-17 09:21:03,903 - INFO - 所有数据表已确认或创建。
+2025-09-17 09:21:11,816 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-17 09:21:12,389 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 09:21:12,914 - INFO - 成功连接到数据库: records.db
+2025-09-17 09:21:12,914 - INFO - 所有数据表已确认或创建。
+2025-09-17 09:23:00,610 - INFO - 成功连接到数据库: records.db
+2025-09-17 09:23:00,610 - INFO - 所有数据表已确认或创建。
+2025-09-17 09:23:06,369 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-17 09:23:06,943 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 09:23:07,473 - INFO - 成功连接到数据库: records.db
+2025-09-17 09:23:07,473 - INFO - 所有数据表已确认或创建。
+2025-09-17 09:27:35,322 - INFO - 成功连接到数据库: records.db
+2025-09-17 09:27:35,324 - INFO - 所有数据表已确认或创建。
+2025-09-17 09:27:41,488 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-17 09:27:41,742 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 09:27:42,275 - INFO - 成功连接到数据库: records.db
+2025-09-17 09:27:42,275 - INFO - 所有数据表已确认或创建。
+2025-09-17 09:32:19,872 - INFO - 数据库连接已关闭。
+2025-09-17 09:32:34,214 - INFO - 成功连接到数据库: records.db
+2025-09-17 09:32:34,214 - INFO - 所有数据表已确认或创建。
+2025-09-17 09:32:47,064 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-17 09:32:47,297 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 09:32:47,823 - INFO - 成功连接到数据库: records.db
+2025-09-17 09:32:47,823 - INFO - 所有数据表已确认或创建。
+2025-09-17 09:33:41,236 - INFO - 成功连接到数据库: records.db
+2025-09-17 09:33:41,236 - INFO - 所有数据表已确认或创建。
+2025-09-17 09:33:52,282 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-17 09:34:06,030 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 09:34:06,568 - INFO - 成功连接到数据库: records.db
+2025-09-17 09:34:06,568 - INFO - 所有数据表已确认或创建。
+2025-09-17 10:05:05,399 - INFO - 数据库连接已关闭。
+2025-09-17 10:05:14,454 - INFO - 成功连接到数据库: records.db
+2025-09-17 10:05:14,454 - INFO - 所有数据表已确认或创建。
+2025-09-17 10:05:22,701 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-17 10:05:22,952 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 10:05:23,446 - INFO - 成功连接到数据库: records.db
+2025-09-17 10:05:23,446 - INFO - 所有数据表已确认或创建。
+2025-09-17 10:08:00,947 - INFO - 数据库连接已关闭。
+2025-09-17 11:07:02,581 - INFO - 成功连接到数据库: records.db
+2025-09-17 11:07:02,581 - INFO - 所有数据表已确认或创建。
+2025-09-17 11:07:11,527 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-17 11:07:11,783 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 11:07:12,284 - INFO - 成功连接到数据库: records.db
+2025-09-17 11:07:12,284 - INFO - 所有数据表已确认或创建。
+2025-09-17 11:07:28,698 - INFO - 数据库连接已关闭。
+2025-09-17 11:09:28,579 - INFO - 成功连接到数据库: records.db
+2025-09-17 11:09:28,579 - INFO - 所有数据表已确认或创建。
+2025-09-17 11:09:38,528 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-17 11:09:38,784 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 11:09:39,280 - INFO - 成功连接到数据库: records.db
+2025-09-17 11:09:39,280 - INFO - 所有数据表已确认或创建。
+2025-09-17 11:09:56,892 - INFO - 数据库连接已关闭。
+2025-09-17 11:16:15,741 - INFO - 成功连接到数据库: records.db
+2025-09-17 11:16:15,741 - INFO - 所有数据表已确认或创建。
+2025-09-17 11:16:20,976 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-17 11:16:21,559 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 11:16:22,074 - INFO - 成功连接到数据库: records.db
+2025-09-17 11:16:22,074 - INFO - 所有数据表已确认或创建。
+2025-09-17 11:20:03,075 - INFO - 数据库连接已关闭。
+2025-09-17 11:21:17,493 - INFO - 成功连接到数据库: records.db
+2025-09-17 11:21:17,493 - INFO - 所有数据表已确认或创建。
+2025-09-17 11:21:25,290 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-17 11:21:25,882 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 11:21:26,369 - INFO - 成功连接到数据库: records.db
+2025-09-17 11:21:26,369 - INFO - 所有数据表已确认或创建。
+2025-09-17 11:22:23,130 - INFO - 数据库连接已关闭。
+2025-09-17 11:29:57,533 - INFO - 成功连接到数据库: records.db
+2025-09-17 11:29:57,533 - INFO - 所有数据表已确认或创建。
+2025-09-17 11:30:05,806 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-17 11:30:06,380 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 11:30:06,889 - INFO - 成功连接到数据库: records.db
+2025-09-17 11:30:06,889 - INFO - 所有数据表已确认或创建。
+2025-09-17 11:32:29,002 - INFO - 数据库连接已关闭。
+2025-09-17 11:33:28,363 - INFO - 成功连接到数据库: records.db
+2025-09-17 11:33:28,363 - INFO - 所有数据表已确认或创建。
+2025-09-17 11:33:39,059 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-17 11:33:39,350 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 11:33:39,940 - INFO - 成功连接到数据库: records.db
+2025-09-17 11:33:39,946 - INFO - 所有数据表已确认或创建。
+2025-09-17 11:34:36,985 - INFO - 数据库连接已关闭。
+2025-09-17 11:35:59,834 - INFO - 成功连接到数据库: records.db
+2025-09-17 11:35:59,834 - INFO - 所有数据表已确认或创建。
+2025-09-17 11:36:06,383 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-17 11:36:06,966 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 11:36:07,505 - INFO - 成功连接到数据库: records.db
+2025-09-17 11:36:07,505 - INFO - 所有数据表已确认或创建。
+2025-09-17 11:36:24,600 - INFO - 数据库连接已关闭。
+2025-09-17 11:39:16,429 - INFO - 成功连接到数据库: records.db
+2025-09-17 11:39:16,429 - INFO - 所有数据表已确认或创建。
+2025-09-17 11:39:29,019 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-17 11:39:29,260 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 11:39:29,798 - INFO - 成功连接到数据库: records.db
+2025-09-17 11:39:29,798 - INFO - 所有数据表已确认或创建。
+2025-09-17 11:45:34,705 - INFO - 数据库连接已关闭。
+2025-09-17 11:45:41,897 - INFO - 成功连接到数据库: records.db
+2025-09-17 11:45:41,913 - INFO - 所有数据表已确认或创建。
+2025-09-17 11:45:50,961 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-17 11:45:51,215 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 11:45:51,737 - INFO - 成功连接到数据库: records.db
+2025-09-17 11:45:51,737 - INFO - 所有数据表已确认或创建。
+2025-09-17 11:46:42,438 - INFO - 数据库连接已关闭。
+2025-09-17 11:49:30,477 - INFO - 成功连接到数据库: records.db
+2025-09-17 11:49:30,477 - INFO - 所有数据表已确认或创建。
+2025-09-17 11:49:39,370 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-17 11:49:39,609 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 11:49:40,174 - INFO - 成功连接到数据库: records.db
+2025-09-17 11:49:40,174 - INFO - 所有数据表已确认或创建。
+2025-09-17 13:20:55,784 - INFO - 成功连接到数据库: records.db
+2025-09-17 13:20:55,784 - INFO - 所有数据表已确认或创建。
+2025-09-17 13:21:02,309 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-17 13:21:02,880 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 13:21:03,371 - INFO - 成功连接到数据库: records.db
+2025-09-17 13:21:03,371 - INFO - 所有数据表已确认或创建。
+2025-09-17 13:22:58,386 - INFO - 数据库连接已关闭。
+2025-09-17 13:23:09,061 - INFO - 成功连接到数据库: records.db
+2025-09-17 13:23:09,061 - INFO - 所有数据表已确认或创建。
+2025-09-17 13:23:18,907 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-17 13:23:19,149 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 13:23:19,640 - INFO - 成功连接到数据库: records.db
+2025-09-17 13:23:19,640 - INFO - 所有数据表已确认或创建。
+2025-09-17 13:25:44,173 - INFO - 成功连接到数据库: records.db
+2025-09-17 13:25:44,173 - INFO - 所有数据表已确认或创建。
+2025-09-17 13:25:50,486 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-17 13:25:51,086 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 13:25:51,586 - INFO - 成功连接到数据库: records.db
+2025-09-17 13:25:51,586 - INFO - 所有数据表已确认或创建。
+2025-09-17 13:26:25,706 - INFO - 数据库连接已关闭。
+2025-09-17 13:35:55,955 - INFO - 成功连接到数据库: records.db
+2025-09-17 13:35:55,955 - INFO - 所有数据表已确认或创建。
+2025-09-17 13:36:09,777 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-17 13:36:10,349 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 13:36:10,841 - INFO - 成功连接到数据库: records.db
+2025-09-17 13:36:10,848 - INFO - 所有数据表已确认或创建。
+2025-09-17 13:36:39,147 - INFO - 数据库连接已关闭。
+2025-09-17 13:38:53,453 - INFO - 成功连接到数据库: records.db
+2025-09-17 13:38:53,453 - INFO - 所有数据表已确认或创建。
+2025-09-17 13:39:02,955 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-17 13:39:03,192 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 13:39:03,694 - INFO - 成功连接到数据库: records.db
+2025-09-17 13:39:03,696 - INFO - 所有数据表已确认或创建。
+2025-09-17 13:40:00,182 - INFO - 数据库连接已关闭。
+2025-09-17 13:40:52,352 - INFO - 成功连接到数据库: records.db
+2025-09-17 13:40:52,352 - INFO - 所有数据表已确认或创建。
+2025-09-17 13:40:58,412 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-17 13:40:58,989 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 13:40:59,472 - INFO - 成功连接到数据库: records.db
+2025-09-17 13:40:59,472 - INFO - 所有数据表已确认或创建。
+2025-09-17 13:41:57,309 - INFO - 数据库连接已关闭。
+2025-09-17 13:46:49,492 - INFO - 成功连接到数据库: records.db
+2025-09-17 13:46:49,492 - INFO - 所有数据表已确认或创建。
+2025-09-17 13:46:58,133 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-17 13:46:58,387 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 13:46:58,897 - INFO - 成功连接到数据库: records.db
+2025-09-17 13:46:58,897 - INFO - 所有数据表已确认或创建。
+2025-09-17 13:48:43,692 - INFO - 数据库连接已关闭。
+2025-09-17 14:01:33,537 - INFO - 成功连接到数据库: records.db
+2025-09-17 14:01:33,537 - INFO - 所有数据表已确认或创建。
+2025-09-17 14:01:41,611 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-17 14:01:41,854 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 14:01:42,351 - INFO - 成功连接到数据库: records.db
+2025-09-17 14:01:42,351 - INFO - 所有数据表已确认或创建。
+2025-09-17 14:18:35,997 - INFO - 成功连接到数据库: records.db
+2025-09-17 14:18:35,997 - INFO - 所有数据表已确认或创建。
+2025-09-17 14:18:42,283 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-17 14:18:42,845 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 14:18:43,353 - INFO - 成功连接到数据库: records.db
+2025-09-17 14:18:43,353 - INFO - 所有数据表已确认或创建。
+2025-09-17 14:35:11,759 - INFO - 数据库连接已关闭。
+2025-09-17 14:42:03,292 - INFO - 成功连接到数据库: records.db
+2025-09-17 14:42:03,312 - INFO - 所有数据表已确认或创建。
+2025-09-17 14:42:26,755 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-17 14:42:37,451 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 14:42:37,944 - INFO - 成功连接到数据库: records.db
+2025-09-17 14:42:37,944 - INFO - 所有数据表已确认或创建。
+2025-09-17 14:42:51,795 - INFO - 成功向 grower_records 批量插入 3 条记录。
+2025-09-17 14:46:32,557 - INFO - 数据库连接已关闭。
+2025-09-17 14:47:20,187 - INFO - 成功连接到数据库: records.db
+2025-09-17 14:47:20,187 - INFO - 所有数据表已确认或创建。
+2025-09-17 14:47:27,242 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-17 14:47:27,479 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 14:47:27,988 - INFO - 成功连接到数据库: records.db
+2025-09-17 14:47:27,988 - INFO - 所有数据表已确认或创建。
+2025-09-17 14:49:04,660 - INFO - 数据库连接已关闭。
+2025-09-17 14:51:54,445 - INFO - 成功连接到数据库: records.db
+2025-09-17 14:51:54,445 - INFO - 所有数据表已确认或创建。
+2025-09-17 14:52:04,862 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-17 14:52:05,109 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 14:52:05,604 - INFO - 成功连接到数据库: records.db
+2025-09-17 14:52:05,604 - INFO - 所有数据表已确认或创建。
+2025-09-17 14:56:12,951 - INFO - 数据库连接已关闭。
+2025-09-17 14:56:50,346 - INFO - 成功连接到数据库: records.db
+2025-09-17 14:56:50,346 - INFO - 所有数据表已确认或创建。
+2025-09-17 14:56:58,358 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-17 14:56:58,613 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 14:56:59,117 - INFO - 成功连接到数据库: records.db
+2025-09-17 14:56:59,119 - INFO - 所有数据表已确认或创建。
+2025-09-17 14:59:41,516 - INFO - 成功向 grower_records 批量插入 3 条记录。
+2025-09-17 15:07:53,346 - INFO - 数据库连接已关闭。
+2025-09-17 15:08:03,832 - INFO - 成功连接到数据库: records.db
+2025-09-17 15:08:03,832 - INFO - 所有数据表已确认或创建。
+2025-09-17 15:08:13,321 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-17 15:08:13,573 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 15:08:14,068 - INFO - 成功连接到数据库: records.db
+2025-09-17 15:08:14,068 - INFO - 所有数据表已确认或创建。
+2025-09-17 15:09:24,534 - INFO - 成功向 grower_records 批量插入 3 条记录。
+2025-09-17 15:19:15,228 - INFO - 数据库连接已关闭。
+2025-09-17 15:26:22,100 - INFO - 成功连接到数据库: records.db
+2025-09-17 15:26:22,100 - INFO - 所有数据表已确认或创建。
+2025-09-17 15:26:30,924 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-17 15:26:31,185 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 15:26:31,704 - INFO - 成功连接到数据库: records.db
+2025-09-17 15:26:31,704 - INFO - 所有数据表已确认或创建。
+2025-09-17 15:26:31,847 - ERROR - 获取自定义汇总数据失败: Execution failed on sql '
+            SELECT
+                date,
+                SUM(total_amount) as total_revenue,
+                SUM(net_weight) as total_weight
+# ... (部分代码)
+            FROM grower_records
+            WHERE date BETWEEN ? AND ?
+         GROUP BY date ORDER BY date;': unrecognized token: "#"
+2025-09-17 15:26:37,617 - ERROR - 获取自定义汇总数据失败: Execution failed on sql '
+            SELECT
+                date,
+                SUM(total_amount) as total_revenue,
+                SUM(net_weight) as total_weight
+# ... (部分代码)
+            FROM grower_records
+            WHERE date BETWEEN ? AND ?
+         AND grower_name = ? GROUP BY date ORDER BY date;': unrecognized token: "#"
+2025-09-17 15:26:38,287 - ERROR - 获取自定义汇总数据失败: Execution failed on sql '
+            SELECT
+                date,
+                SUM(total_amount) as total_revenue,
+                SUM(net_weight) as total_weight
+# ... (部分代码)
+            FROM grower_records
+            WHERE date BETWEEN ? AND ?
+         AND grower_name = ? GROUP BY date ORDER BY date;': unrecognized token: "#"
+2025-09-17 15:26:46,038 - ERROR - 获取自定义汇总数据失败: Execution failed on sql '
+            SELECT
+                date,
+                SUM(total_amount) as total_revenue,
+                SUM(net_weight) as total_weight
+# ... (部分代码)
+            FROM grower_records
+            WHERE date BETWEEN ? AND ?
+         AND grower_name = ? GROUP BY date ORDER BY date;': unrecognized token: "#"
+2025-09-17 15:26:49,026 - ERROR - 获取自定义汇总数据失败: Execution failed on sql '
+            SELECT
+                date,
+                SUM(total_amount) as total_revenue,
+                SUM(net_weight) as total_weight
+# ... (部分代码)
+            FROM grower_records
+            WHERE date BETWEEN ? AND ?
+         AND grower_name = ? GROUP BY date ORDER BY date;': unrecognized token: "#"
+2025-09-17 15:26:49,373 - ERROR - 获取自定义汇总数据失败: Execution failed on sql '
+            SELECT
+                date,
+                SUM(total_amount) as total_revenue,
+                SUM(net_weight) as total_weight
+# ... (部分代码)
+            FROM grower_records
+            WHERE date BETWEEN ? AND ?
+         AND grower_name = ? GROUP BY date ORDER BY date;': unrecognized token: "#"
+2025-09-17 15:27:18,565 - INFO - 数据库连接已关闭。
+2025-09-17 15:27:57,311 - INFO - 成功连接到数据库: records.db
+2025-09-17 15:27:57,311 - INFO - 所有数据表已确认或创建。
+2025-09-17 15:28:05,651 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-17 15:28:05,905 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 15:28:06,411 - INFO - 成功连接到数据库: records.db
+2025-09-17 15:28:06,411 - INFO - 所有数据表已确认或创建。
+2025-09-17 15:29:10,336 - INFO - 数据库连接已关闭。
+2025-09-17 15:30:40,309 - INFO - 成功连接到数据库: records.db
+2025-09-17 15:30:40,309 - INFO - 所有数据表已确认或创建。
+2025-09-17 15:30:49,935 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-17 15:30:50,179 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 15:30:50,693 - INFO - 成功连接到数据库: records.db
+2025-09-17 15:30:50,695 - INFO - 所有数据表已确认或创建。
+2025-09-17 15:31:17,439 - INFO - 成功向 grower_records 批量插入 3 条记录。
+2025-09-17 15:38:11,672 - INFO - 数据库连接已关闭。
+2025-09-17 15:43:22,352 - INFO - 成功连接到数据库: records.db
+2025-09-17 15:43:22,352 - INFO - 所有数据表已确认或创建。
+2025-09-17 15:43:31,667 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "C:\Users\wanghuatiao\AppData\Local\Programs\Python\Python311\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-09-17 15:43:32,247 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 15:43:32,725 - INFO - 成功连接到数据库: records.db
+2025-09-17 15:43:32,725 - INFO - 所有数据表已确认或创建。
+2025-09-17 15:48:57,189 - INFO - 数据库连接已关闭。
+2025-09-17 15:49:10,090 - INFO - 成功连接到数据库: records.db
+2025-09-17 15:49:10,090 - INFO - 所有数据表已确认或创建。
+2025-09-17 15:49:19,306 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 15:49:19,798 - INFO - 成功连接到数据库: records.db
+2025-09-17 15:49:19,798 - INFO - 所有数据表已确认或创建。
+2025-09-17 15:53:29,792 - INFO - 数据库连接已关闭。
+2025-09-17 15:56:19,174 - INFO - 成功连接到数据库: records.db
+2025-09-17 15:56:19,174 - INFO - 所有数据表已确认或创建。
+2025-09-17 15:56:28,008 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 15:56:28,498 - INFO - 成功连接到数据库: records.db
+2025-09-17 15:56:28,501 - INFO - 所有数据表已确认或创建。
+2025-09-17 15:56:50,214 - INFO - 数据库连接已关闭。
+2025-09-17 16:15:21,149 - INFO - 成功连接到数据库: records.db
+2025-09-17 16:15:21,149 - INFO - 所有数据表已确认或创建。
+2025-09-17 16:15:31,609 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 16:15:32,132 - INFO - 成功连接到数据库: records.db
+2025-09-17 16:15:32,132 - INFO - 所有数据表已确认或创建。
+2025-09-17 16:18:05,041 - ERROR - 从数据库读取DataFrame失败: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 36052 and this is thread id 31932.
+2025-09-17 16:18:08,935 - ERROR - 从数据库读取DataFrame失败: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 36052 and this is thread id 32560.
+2025-09-17 16:18:20,027 - ERROR - 从数据库读取DataFrame失败: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 36052 and this is thread id 18672.
+2025-09-17 16:18:43,750 - ERROR - 从数据库读取DataFrame失败: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 36052 and this is thread id 33200.
+2025-09-17 16:18:50,385 - ERROR - 从数据库读取DataFrame失败: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 36052 and this is thread id 36884.
+2025-09-17 16:18:52,439 - ERROR - 从数据库读取DataFrame失败: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 36052 and this is thread id 35028.
+2025-09-17 16:20:06,169 - ERROR - 从数据库读取DataFrame失败: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 36052 and this is thread id 18072.
+2025-09-17 16:20:08,787 - ERROR - 从数据库读取DataFrame失败: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 36052 and this is thread id 34488.
+2025-09-17 16:20:16,468 - ERROR - 从数据库读取DataFrame失败: SQLite objects created in a thread can only be used in that same thread. The object was created in thread id 36052 and this is thread id 17164.
+2025-09-17 16:20:50,779 - INFO - 数据库连接已关闭。
+2025-09-17 16:21:52,347 - INFO - 成功连接到数据库: records.db
+2025-09-17 16:21:52,347 - INFO - 所有数据表已确认或创建。
+2025-09-17 16:22:01,275 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 16:22:01,793 - INFO - 成功连接到数据库: records.db
+2025-09-17 16:22:01,793 - INFO - 所有数据表已确认或创建。
+2025-09-17 16:24:14,184 - INFO - 数据库连接已关闭。
+2025-09-17 16:32:40,369 - INFO - 成功连接到数据库: records.db
+2025-09-17 16:32:40,369 - INFO - 所有数据表已确认或创建。
+2025-09-17 16:32:49,215 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 16:32:49,706 - INFO - 成功连接到数据库: records.db
+2025-09-17 16:32:49,706 - INFO - 所有数据表已确认或创建。
+2025-09-17 16:44:17,138 - INFO - 数据库连接已关闭。
+2025-09-17 16:44:25,568 - INFO - 成功连接到数据库: records.db
+2025-09-17 16:44:25,568 - INFO - 所有数据表已确认或创建。
+2025-09-17 16:44:35,804 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 16:44:36,311 - INFO - 成功连接到数据库: records.db
+2025-09-17 16:44:36,311 - INFO - 所有数据表已确认或创建。
+2025-09-17 16:46:03,936 - INFO - 数据库连接已关闭。
+2025-09-17 16:48:50,301 - INFO - 成功连接到数据库: records.db
+2025-09-17 16:48:50,301 - INFO - 所有数据表已确认或创建。
+2025-09-17 16:49:03,803 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 16:49:04,292 - INFO - 成功连接到数据库: records.db
+2025-09-17 16:49:04,292 - INFO - 所有数据表已确认或创建。
+2025-09-17 16:58:10,611 - INFO - 数据库连接已关闭。
+2025-09-17 16:58:32,219 - INFO - 成功连接到数据库: records.db
+2025-09-17 16:58:32,219 - INFO - 所有数据表已确认或创建。
+2025-09-17 16:58:41,661 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 16:58:42,166 - INFO - 成功连接到数据库: records.db
+2025-09-17 16:58:42,166 - INFO - 所有数据表已确认或创建。
+2025-09-17 17:08:47,631 - INFO - 数据库连接已关闭。
+2025-09-17 17:33:12,911 - INFO - 成功连接到数据库: records.db
+2025-09-17 17:33:12,911 - INFO - 所有数据表已确认或创建。
+2025-09-17 17:33:21,453 - INFO - 用户 'admin' (角色: admin) 登录成功。
+2025-09-17 17:33:21,963 - INFO - 成功连接到数据库: records.db
+2025-09-17 17:33:21,963 - INFO - 所有数据表已确认或创建。
+2025-09-17 17:33:46,487 - INFO - 成功向 grower_records 批量插入 2 条记录。
+2025-09-17 17:34:08,026 - INFO - 数据库连接已关闭。
+2025-09-18 13:16:27,110 - INFO - 成功连接到Supabase云数据库。
+2025-09-18 13:16:28,904 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/users?select=id%2Cusername%2Crole "HTTP/2 200 OK"
+2025-09-18 13:16:46,579 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/users?select=%2A&username=eq.huatiao "HTTP/2 200 OK"
+2025-09-18 13:16:47,398 - INFO - HTTP Request: POST https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/users "HTTP/2 401 Unauthorized"
+2025-09-18 13:16:47,398 - ERROR - 添加用户 'huatiao' 失败: {'message': 'new row violates row-level security policy for table "users"', 'code': '42501', 'hint': None, 'details': None}
+2025-09-18 13:17:14,684 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/users?select=%2A&username=eq.admin "HTTP/2 200 OK"
+2025-09-18 13:17:15,426 - INFO - HTTP Request: POST https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/users "HTTP/2 401 Unauthorized"
+2025-09-18 13:17:15,426 - ERROR - 添加用户 'admin' 失败: {'message': 'new row violates row-level security policy for table "users"', 'code': '42501', 'hint': None, 'details': None}
+2025-09-18 13:17:19,320 - INFO - 首次用户设置被取消，程序退出。
+2025-09-18 13:23:08,084 - INFO - 成功连接到Supabase云数据库。
+2025-09-18 13:23:09,311 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/users?select=id%2Cusername%2Crole "HTTP/2 200 OK"
+2025-09-18 13:23:26,073 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/users?select=%2A&username=eq.huatiao "HTTP/2 200 OK"
+2025-09-18 13:23:26,825 - INFO - HTTP Request: POST https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/users "HTTP/2 201 Created"
+2025-09-18 13:23:49,304 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/users?select=%2A&username=eq.huatiao "HTTP/2 200 OK"
+2025-09-18 13:23:49,833 - INFO - 用户 'huatiao' (角色: admin) 登录成功。
+2025-09-18 13:23:50,341 - INFO - 成功连接到Supabase云数据库。
+2025-09-18 13:23:51,543 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=grower_name "HTTP/2 200 OK"
+2025-09-18 13:23:51,948 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=date%2Ctotal_amount%2Cnet_weight&date=gte.2025-09-01&date=lte.2025-09-18 "HTTP/2 200 OK"
+2025-09-18 13:23:53,135 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=id "HTTP/2 200 OK"
+2025-09-18 13:23:53,548 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=%2A&order=date.desc%2Cid.desc&offset=0&limit=50 "HTTP/2 200 OK"
+2025-09-18 13:23:54,269 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=id "HTTP/2 200 OK"
+2025-09-18 13:23:54,675 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=%2A&order=date.desc%2Cid.desc&offset=0&limit=50 "HTTP/2 200 OK"
+2025-09-18 13:23:55,129 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/users?select=id%2Cusername%2Crole "HTTP/2 200 OK"
+2025-09-18 13:24:10,371 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=grower_name "HTTP/2 200 OK"
+2025-09-18 13:24:11,478 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=grower_name "HTTP/2 200 OK"
+2025-09-18 13:24:22,974 - INFO - 数据库会话结束。
+2025-09-18 13:40:49,590 - INFO - 成功连接到Supabase云数据库。
+2025-09-18 13:40:51,183 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/users?select=id%2Cusername%2Crole "HTTP/2 200 OK"
+2025-09-18 13:41:11,490 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/users?select=%2A&username=eq.huatiao "HTTP/2 200 OK"
+2025-09-18 13:41:11,737 - INFO - 用户 'huatiao' (角色: admin) 登录成功。
+2025-09-18 13:41:12,257 - INFO - 成功连接到Supabase云数据库。
+2025-09-18 13:41:13,436 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=grower_name "HTTP/2 200 OK"
+2025-09-18 13:41:14,244 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=date%2Ctotal_amount%2Cnet_weight&date=gte.2025-09-01&date=lte.2025-09-18 "HTTP/2 200 OK"
+2025-09-18 13:41:15,303 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=id "HTTP/2 200 OK"
+2025-09-18 13:41:15,806 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=%2A&order=date.desc%2Cid.desc&offset=0&limit=50 "HTTP/2 200 OK"
+2025-09-18 13:41:16,562 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=id "HTTP/2 200 OK"
+2025-09-18 13:41:17,320 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=%2A&order=date.desc%2Cid.desc&offset=0&limit=50 "HTTP/2 200 OK"
+2025-09-18 13:41:18,116 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/users?select=id%2Cusername%2Crole "HTTP/2 200 OK"
+2025-09-18 13:41:25,025 - INFO - 数据库会话结束。
+2025-09-18 18:14:19,162 - INFO - 成功连接到Supabase云数据库。
+2025-09-18 18:14:19,920 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/users?select=id%2Cusername%2Crole "HTTP/2 200 OK"
+2025-09-18 18:14:27,346 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/users?select=%2A&username=eq.huatiao "HTTP/2 200 OK"
+2025-09-18 18:14:27,563 - INFO - 用户 'huatiao' (角色: admin) 登录成功。
+2025-09-18 18:14:28,069 - INFO - 成功连接到Supabase云数据库。
+2025-09-18 18:14:29,231 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=grower_name "HTTP/2 200 OK"
+2025-09-18 18:14:30,015 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=date%2Ctotal_amount%2Cnet_weight&date=gte.2025-09-01&date=lte.2025-09-18 "HTTP/2 200 OK"
+2025-09-18 18:14:30,916 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=id "HTTP/2 200 OK"
+2025-09-18 18:14:31,667 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=%2A&order=date.desc%2Cid.desc&offset=0&limit=50 "HTTP/2 200 OK"
+2025-09-18 18:14:32,461 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=id "HTTP/2 200 OK"
+2025-09-18 18:14:32,894 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=%2A&order=date.desc%2Cid.desc&offset=0&limit=50 "HTTP/2 200 OK"
+2025-09-18 18:14:33,647 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/users?select=id%2Cusername%2Crole "HTTP/2 200 OK"
+2025-09-18 18:14:57,258 - INFO - HTTP Request: POST https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records "HTTP/2 201 Created"
+2025-09-18 18:14:58,006 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=id "HTTP/2 200 OK"
+2025-09-18 18:14:58,447 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=%2A&order=date.desc%2Cid.desc&offset=0&limit=50 "HTTP/2 200 OK"
+2025-09-18 18:18:50,819 - INFO - 数据库会话结束。
+2025-09-18 18:20:44,325 - INFO - 成功连接到Supabase云数据库。
+2025-09-18 18:20:45,085 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/users?select=id%2Cusername%2Crole "HTTP/2 200 OK"
+2025-09-18 18:20:54,565 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/users?select=%2A&username=eq.huatiao "HTTP/2 200 OK"
+2025-09-18 18:20:54,799 - INFO - 用户 'huatiao' (角色: admin) 登录成功。
+2025-09-18 18:20:55,313 - INFO - 成功连接到Supabase云数据库。
+2025-09-18 18:20:56,159 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=grower_name "HTTP/2 200 OK"
+2025-09-18 18:20:56,986 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=date%2Ctotal_amount%2Cnet_weight&date=gte.2025-09-01&date=lte.2025-09-18 "HTTP/2 200 OK"
+2025-09-18 18:20:57,872 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=id "HTTP/2 200 OK"
+2025-09-18 18:20:58,664 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=%2A&order=date.desc%2Cid.desc&offset=0&limit=50 "HTTP/2 200 OK"
+2025-09-18 18:20:59,742 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=id "HTTP/2 200 OK"
+2025-09-18 18:21:00,505 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=%2A&order=date.desc%2Cid.desc&offset=0&limit=50 "HTTP/2 200 OK"
+2025-09-18 18:21:00,980 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/users?select=id%2Cusername%2Crole "HTTP/2 200 OK"
+2025-09-18 18:21:13,669 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=client_name "HTTP/2 200 OK"
+2025-09-18 18:21:14,710 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=client_name "HTTP/2 200 OK"
+2025-09-18 18:21:16,840 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=client_name "HTTP/2 200 OK"
+2025-09-18 18:21:29,417 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=spec "HTTP/2 200 OK"
+2025-09-18 18:21:40,029 - INFO - HTTP Request: POST https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records "HTTP/2 201 Created"
+2025-09-18 18:21:40,465 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=id "HTTP/2 200 OK"
+2025-09-18 18:21:40,898 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=%2A&order=date.desc%2Cid.desc&offset=0&limit=50 "HTTP/2 200 OK"
+2025-09-18 18:22:13,339 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=grower_name "HTTP/2 200 OK"
+2025-09-18 18:22:24,197 - INFO - HTTP Request: POST https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records "HTTP/2 201 Created"
+2025-09-18 18:22:24,965 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=id "HTTP/2 200 OK"
+2025-09-18 18:22:25,789 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=%2A&order=date.desc%2Cid.desc&offset=0&limit=50 "HTTP/2 200 OK"
+2025-09-18 18:36:12,788 - ERROR - 获取 grower_records 的 grower_name 列唯一值失败: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2025-09-18 18:36:14,538 - ERROR - 获取 grower_records 的 grower_name 列唯一值失败: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2025-09-18 18:36:15,632 - ERROR - 获取 grower_records 的 grower_name 列唯一值失败: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2025-09-18 18:36:17,448 - ERROR - 获取 grower_records 的 grower_name 列唯一值失败: Server disconnected
+2025-09-18 18:36:28,615 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=id&date=gte.2025-09-08&date=lte.2025-09-18 "HTTP/2 200 OK"
+2025-09-18 18:36:30,058 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=%2A&order=date.desc%2Cid.desc&offset=0&limit=50&date=gte.2025-09-08&date=lte.2025-09-18 "HTTP/2 200 OK"
+2025-09-18 18:36:34,303 - ERROR - 统计 grower_records 记录数失败: Server disconnected
+2025-09-18 18:36:34,305 - ERROR - 分页获取 grower_records 记录失败: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2025-09-18 18:36:34,333 - ERROR - 统计 grower_records 记录数失败: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2025-09-18 18:36:34,335 - ERROR - 分页获取 grower_records 记录失败: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+2025-09-18 18:36:38,205 - INFO - 数据库会话结束。
+2025-09-18 20:18:58,813 - INFO - 成功连接到Supabase云数据库。
+2025-09-18 20:19:00,630 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/users?select=id%2Cusername%2Crole "HTTP/2 200 OK"
+2025-09-18 20:19:09,240 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/users?select=%2A&username=eq.huatiao "HTTP/2 200 OK"
+2025-09-18 20:19:09,483 - INFO - 用户 'huatiao' (角色: admin) 登录成功。
+2025-09-18 20:19:10,002 - INFO - 成功连接到Supabase云数据库。
+2025-09-18 20:19:11,403 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=grower_name "HTTP/2 200 OK"
+2025-09-18 20:19:12,229 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=date%2Ctotal_amount%2Cnet_weight&date=gte.2025-09-01&date=lte.2025-09-18 "HTTP/2 200 OK"
+2025-09-18 20:19:13,232 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=id "HTTP/2 200 OK"
+2025-09-18 20:19:13,764 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=%2A&order=date.desc%2Cid.desc&offset=0&limit=50 "HTTP/2 200 OK"
+2025-09-18 20:19:14,917 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=id "HTTP/2 200 OK"
+2025-09-18 20:19:15,749 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=%2A&order=date.desc%2Cid.desc&offset=0&limit=50 "HTTP/2 200 OK"
+2025-09-18 20:19:16,289 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/users?select=id%2Cusername%2Crole "HTTP/2 200 OK"
+2025-09-18 20:19:23,846 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=grower_name "HTTP/2 200 OK"
+2025-09-18 20:19:26,001 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=grower_name "HTTP/2 200 OK"
+2025-09-18 20:19:27,753 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=grower_name "HTTP/2 200 OK"
+2025-09-18 20:19:39,395 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=id&grower_name=like.%25%E6%9D%8E%E4%BC%9F%25&date=gte.2025-09-02&date=lte.2025-09-18 "HTTP/2 200 OK"
+2025-09-18 20:19:40,280 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=%2A&order=date.desc%2Cid.desc&offset=0&limit=50&grower_name=like.%25%E6%9D%8E%E4%BC%9F%25&date=gte.2025-09-02&date=lte.2025-09-18 "HTTP/2 200 OK"
+2025-09-18 20:19:41,295 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=%2A&id=in.%283%2C2%2C1%29 "HTTP/2 200 OK"
+2025-09-18 20:20:18,230 - INFO - HTTP Request: DELETE https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?id=eq.1 "HTTP/2 200 OK"
+2025-09-18 20:20:19,068 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=id "HTTP/2 200 OK"
+2025-09-18 20:20:19,884 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=%2A&order=date.desc%2Cid.desc&offset=0&limit=50 "HTTP/2 200 OK"
+2025-09-18 20:20:25,015 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=client_name "HTTP/2 200 OK"
+2025-09-18 20:20:27,161 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=client_name "HTTP/2 200 OK"
+2025-09-18 20:20:31,041 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=id&client_name=like.%25%E5%88%A9%E5%A5%BD%25&date=gte.2025-09-18&date=lte.2025-09-18 "HTTP/2 200 OK"
+2025-09-18 20:20:31,874 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=%2A&order=date.desc%2Cid.desc&offset=0&limit=50&client_name=like.%25%E5%88%A9%E5%A5%BD%25&date=gte.2025-09-18&date=lte.2025-09-18 "HTTP/2 200 OK"
+2025-09-18 20:20:38,528 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=id&client_name=like.%25%E5%88%A9%E5%A5%BD%25&date=gte.2025-09-09&date=lte.2025-09-18 "HTTP/2 200 OK"
+2025-09-18 20:20:39,028 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=%2A&order=date.desc%2Cid.desc&offset=0&limit=50&client_name=like.%25%E5%88%A9%E5%A5%BD%25&date=gte.2025-09-09&date=lte.2025-09-18 "HTTP/2 200 OK"
+2025-09-18 20:20:39,513 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=id&client_name=like.%25%E5%88%A9%E5%A5%BD%25&date=gte.2025-09-09&date=lte.2025-09-18 "HTTP/2 200 OK"
+2025-09-18 20:20:40,626 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=%2A&order=date.desc%2Cid.desc&offset=0&limit=50&client_name=like.%25%E5%88%A9%E5%A5%BD%25&date=gte.2025-09-09&date=lte.2025-09-18 "HTTP/2 200 OK"
+2025-09-18 20:21:01,349 - INFO - HTTP Request: POST https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records "HTTP/2 201 Created"
+2025-09-18 20:21:02,169 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=id&client_name=like.%25%E5%88%A9%E5%A5%BD%25&date=gte.2025-09-09&date=lte.2025-09-18 "HTTP/2 200 OK"
+2025-09-18 20:21:04,361 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=%2A&order=date.desc%2Cid.desc&offset=0&limit=50&client_name=like.%25%E5%88%A9%E5%A5%BD%25&date=gte.2025-09-09&date=lte.2025-09-18 "HTTP/2 200 OK"
+2025-09-18 20:21:23,795 - INFO - 数据库会话结束。
+2025-09-18 20:23:07,641 - INFO - 成功连接到Supabase云数据库。
+2025-09-18 20:23:08,624 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/users?select=id%2Cusername%2Crole "HTTP/2 200 OK"
+2025-09-18 20:23:16,205 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/users?select=%2A&username=eq.huatiao "HTTP/2 200 OK"
+2025-09-18 20:23:16,435 - INFO - 用户 'huatiao' (角色: admin) 登录成功。
+2025-09-18 20:23:16,949 - INFO - 成功连接到Supabase云数据库。
+2025-09-18 20:23:18,364 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=grower_name "HTTP/2 200 OK"
+2025-09-18 20:23:19,171 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=date%2Ctotal_amount%2Cnet_weight&date=gte.2025-09-01&date=lte.2025-09-18 "HTTP/2 200 OK"
+2025-09-18 20:23:20,463 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=id "HTTP/2 200 OK"
+2025-09-18 20:23:21,879 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=%2A&order=date.desc%2Cid.desc&offset=0&limit=50 "HTTP/2 200 OK"
+2025-09-18 20:23:22,785 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=id "HTTP/2 200 OK"
+2025-09-18 20:23:24,068 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=%2A&order=date.desc%2Cid.desc&offset=0&limit=50 "HTTP/2 200 OK"
+2025-09-18 20:23:24,970 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/users?select=id%2Cusername%2Crole "HTTP/2 200 OK"
+2025-09-18 20:23:42,119 - INFO - 数据库会话结束。
+2025-09-18 20:27:00,364 - INFO - 成功连接到Supabase云数据库。
+2025-09-18 20:27:02,500 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/users?select=id%2Cusername%2Crole "HTTP/2 200 OK"
+2025-09-18 20:27:14,664 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/users?select=%2A&username=eq.huatiao "HTTP/2 200 OK"
+2025-09-18 20:27:14,893 - INFO - 用户 'huatiao' (角色: admin) 登录成功。
+2025-09-18 20:27:15,390 - INFO - 成功连接到Supabase云数据库。
+2025-09-18 20:27:16,614 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=grower_name "HTTP/2 200 OK"
+2025-09-18 20:27:17,468 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=date%2Ctotal_amount%2Cnet_weight&date=gte.2025-09-01&date=lte.2025-09-18 "HTTP/2 200 OK"
+2025-09-18 20:27:19,563 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=id "HTTP/2 200 OK"
+2025-09-18 20:27:20,102 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=%2A&order=date.desc%2Cid.desc&offset=0&limit=50 "HTTP/2 200 OK"
+2025-09-18 20:27:20,968 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=id "HTTP/2 200 OK"
+2025-09-18 20:27:21,498 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=%2A&order=date.desc%2Cid.desc&offset=0&limit=50 "HTTP/2 200 OK"
+2025-09-18 20:27:21,992 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/users?select=id%2Cusername%2Crole "HTTP/2 200 OK"
+2025-09-18 20:27:53,581 - INFO - HTTP Request: POST https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records "HTTP/2 201 Created"
+2025-09-18 20:27:54,075 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=id "HTTP/2 200 OK"
+2025-09-18 20:27:54,599 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=%2A&order=date.desc%2Cid.desc&offset=0&limit=50 "HTTP/2 200 OK"
+2025-09-18 20:34:13,396 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=id&date=gte.2025-09-18&date=lte.2025-09-18 "HTTP/2 200 OK"
+2025-09-18 20:34:13,826 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=%2A&order=date.desc%2Cid.desc&offset=0&limit=50&date=gte.2025-09-18&date=lte.2025-09-18 "HTTP/2 200 OK"
+2025-09-18 20:34:14,287 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=id&date=gte.2025-09-18&date=lte.2025-09-18 "HTTP/2 200 OK"
+2025-09-18 20:34:16,984 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=%2A&order=date.desc%2Cid.desc&offset=0&limit=50&date=gte.2025-09-18&date=lte.2025-09-18 "HTTP/2 200 OK"
+2025-09-18 20:34:17,397 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=id&date=gte.2025-09-18&date=lte.2025-09-18 "HTTP/2 200 OK"
+2025-09-18 20:34:17,816 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=%2A&order=date.desc%2Cid.desc&offset=0&limit=50&date=gte.2025-09-18&date=lte.2025-09-18 "HTTP/2 200 OK"
+2025-09-18 20:34:28,193 - INFO - HTTP Request: PATCH https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?id=eq.4 "HTTP/2 200 OK"
+2025-09-18 20:34:28,619 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=id&date=gte.2025-09-18&date=lte.2025-09-18 "HTTP/2 200 OK"
+2025-09-18 20:34:29,297 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=%2A&order=date.desc%2Cid.desc&offset=0&limit=50&date=gte.2025-09-18&date=lte.2025-09-18 "HTTP/2 200 OK"
+2025-09-18 20:34:43,398 - INFO - HTTP Request: DELETE https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?id=eq.4 "HTTP/2 200 OK"
+2025-09-18 20:34:44,420 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=id&date=gte.2025-09-18&date=lte.2025-09-18 "HTTP/2 200 OK"
+2025-09-18 20:34:45,165 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=%2A&order=date.desc%2Cid.desc&offset=0&limit=50&date=gte.2025-09-18&date=lte.2025-09-18 "HTTP/2 200 OK"
+2025-09-18 20:34:48,003 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=client_name "HTTP/2 200 OK"
+2025-09-18 20:35:02,116 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=grower_name "HTTP/2 200 OK"
+2025-09-18 20:35:03,145 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=grower_name "HTTP/2 200 OK"
+2025-09-18 20:35:05,092 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=spec "HTTP/2 200 OK"
+2025-09-18 20:35:24,298 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/users?select=%2A&username=eq.admin "HTTP/2 200 OK"
+2025-09-18 20:35:24,714 - INFO - HTTP Request: POST https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/users "HTTP/2 201 Created"
+2025-09-18 20:35:25,853 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/users?select=id%2Cusername%2Crole "HTTP/2 200 OK"
+2025-09-18 20:35:29,815 - INFO - 数据库会话结束。
+2025-09-18 23:12:38,060 - INFO - 成功连接到Supabase云数据库。
+2025-09-18 23:12:39,765 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/users?select=id%2Cusername%2Crole "HTTP/2 200 OK"
+2025-09-18 23:12:53,810 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/users?select=%2A&username=eq.admin "HTTP/2 200 OK"
+2025-09-18 23:12:54,035 - INFO - 用户 'admin' (角色: user) 登录成功。
+2025-09-18 23:12:54,578 - INFO - 成功连接到Supabase云数据库。
+2025-09-18 23:12:56,209 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=id "HTTP/2 200 OK"
+2025-09-18 23:12:57,100 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=%2A&order=date.desc%2Cid.desc&offset=0&limit=50 "HTTP/2 200 OK"
+2025-09-18 23:12:58,152 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=id "HTTP/2 200 OK"
+2025-09-18 23:12:58,693 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=%2A&order=date.desc%2Cid.desc&offset=0&limit=50 "HTTP/2 200 OK"
+2025-09-18 23:13:11,262 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=id&date=gte.2025-09-18&date=lte.2025-09-18 "HTTP/2 200 OK"
+2025-09-18 23:13:12,139 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=%2A&order=date.desc%2Cid.desc&offset=0&limit=50&date=gte.2025-09-18&date=lte.2025-09-18 "HTTP/2 200 OK"
+2025-09-18 23:13:12,994 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=grower_name "HTTP/2 200 OK"
+2025-09-18 23:13:15,171 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=grower_name "HTTP/2 200 OK"
+2025-09-18 23:13:16,554 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=grower_name "HTTP/2 200 OK"
+2025-09-18 23:13:17,492 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=grower_name "HTTP/2 200 OK"
+2025-09-18 23:13:18,629 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=grower_name "HTTP/2 200 OK"
+2025-09-18 23:13:19,556 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=grower_name "HTTP/2 200 OK"
+2025-09-18 23:13:24,388 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=grower_name "HTTP/2 200 OK"
+2025-09-18 23:13:26,502 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=grower_name "HTTP/2 200 OK"
+2025-09-18 23:13:30,366 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=id&grower_name=like.%25%E6%9D%8E%E4%B8%89%25&date=gte.2025-09-18&date=lte.2025-09-18 "HTTP/2 200 OK"
+2025-09-18 23:13:30,901 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=%2A&order=date.desc%2Cid.desc&offset=0&limit=50&grower_name=like.%25%E6%9D%8E%E4%B8%89%25&date=gte.2025-09-18&date=lte.2025-09-18 "HTTP/2 200 OK"
+2025-09-18 23:13:42,524 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=id&date=gte.2025-09-18&date=lte.2025-09-18 "HTTP/2 200 OK"
+2025-09-18 23:13:43,366 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=%2A&order=date.desc%2Cid.desc&offset=0&limit=50&date=gte.2025-09-18&date=lte.2025-09-18 "HTTP/2 200 OK"
+2025-09-18 23:13:51,209 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=id&date=gte.2025-09-18&date=lte.2025-09-18 "HTTP/2 200 OK"
+2025-09-18 23:13:52,128 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=%2A&order=date.desc%2Cid.desc&offset=0&limit=50&date=gte.2025-09-18&date=lte.2025-09-18 "HTTP/2 200 OK"
+2025-09-18 23:15:29,549 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=client_name "HTTP/2 200 OK"
+2025-09-18 23:15:36,708 - INFO - 数据库会话结束。
+2025-09-18 23:16:14,683 - INFO - 成功连接到Supabase云数据库。
+2025-09-18 23:16:15,554 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/users?select=id%2Cusername%2Crole "HTTP/2 200 OK"
+2025-09-18 23:16:25,047 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/users?select=%2A&username=eq.huatiao "HTTP/2 200 OK"
+2025-09-18 23:16:25,278 - INFO - 用户 'huatiao' (角色: admin) 登录成功。
+2025-09-18 23:16:25,783 - INFO - 成功连接到Supabase云数据库。
+2025-09-18 23:16:27,418 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=grower_name "HTTP/2 200 OK"
+2025-09-18 23:16:28,300 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=date%2Ctotal_amount%2Cnet_weight&date=gte.2025-09-01&date=lte.2025-09-18 "HTTP/2 200 OK"
+2025-09-18 23:16:29,364 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=id "HTTP/2 200 OK"
+2025-09-18 23:16:29,852 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/grower_records?select=%2A&order=date.desc%2Cid.desc&offset=0&limit=50 "HTTP/2 200 OK"
+2025-09-18 23:16:30,747 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=id "HTTP/2 200 OK"
+2025-09-18 23:16:31,605 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/client_records?select=%2A&order=date.desc%2Cid.desc&offset=0&limit=50 "HTTP/2 200 OK"
+2025-09-18 23:16:32,436 - INFO - HTTP Request: GET https://rpmnpxwjccgtzryomnic.supabase.co/rest/v1/users?select=id%2Cusername%2Crole "HTTP/2 200 OK"
+2025-09-18 23:17:44,477 - INFO - 数据库会话结束。

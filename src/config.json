@@ -1,0 +1,55 @@
+# 文件路径: src/config.py
+# 版本：已优化，能从任何位置准确找到根目录的 config.json
+
+import json
+import os
+import logging
+
+class ConfigManager:
+    def __init__(self):
+        # --- 核心修改点 ---
+        # 获取当前文件(src/config.py)所在的目录
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        # 从 src 目录向上走一级，得到项目根目录
+        project_root = os.path.dirname(script_dir)
+        # 构造 config.json 的绝对路径
+        self.config_path = os.path.join(project_root, 'config.json')
+        
+        self.config = {}
+        self._load_config()
+
+    def _load_config(self):
+        try:
+            if os.path.exists(self.config_path):
+                with open(self.config_path, 'r', encoding='utf-8') as f:
+                    self.config = json.load(f)
+            else:
+                self._create_default_config()
+        except (json.JSONDecodeError, IOError) as e:
+            logging.error(f"读取配置文件 {self.config_path} 失败: {e}")
+            self._create_default_config()
+
+    def _create_default_config(self):
+        self.config = {
+            "company_name": "你的公司名称",
+            "phone_number": "你的联系电话",
+            "footer_text": "本结算单仅供内部参考，最终结算以实际为准。",
+            "excel_output_dir": "结算单",
+            "supabase_url": "YOUR_URL_HERE",
+            "supabase_key": "YOUR_KEY_HERE"
+        }
+        self.save_config()
+
+    def get(self, key, default=None):
+        return self.config.get(key, default)
+
+    def set(self, key, value):
+        self.config[key] = value
+
+    def save_config(self):
+        try:
+            with open(self.config_path, 'w', encoding='utf-8') as f:
+                json.dump(self.config, f, indent=4, ensure_ascii=False)
+            logging.info(f"配置已保存到 {self.config_path}")
+        except IOError as e:
+            logging.error(f"保存配置文件 {self.config_path} 失败: {e}")
