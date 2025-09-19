@@ -181,7 +181,7 @@ class DatabaseManager:
                 if response.count > 0:
                     duplicate_count += 1
                 else:
-                    new_records.append(record)from tkinter import messagebox
+                    new_records.append(record)
             return new_records, duplicate_count
         except Exception as e:
             logging.error(f"检查重复记录失败: {e}")
