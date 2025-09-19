@@ -6,7 +6,6 @@ import logging
 import pandas as pd
 from supabase import create_client, Client
 from .config import ConfigManager
-from tkinter import messagebox # 引入messagebox用于在PC端弹窗报错
 
 class DatabaseManager:
     def __init__(self, db_name=None):
@@ -113,7 +112,6 @@ class DatabaseManager:
             return True
         except Exception as e:
             logging.error(f"向 {table_name} 添加记录失败: {e}")
-            messagebox.showerror("云端错误", f"添加记录失败: \n{e}")
             return False
 
     def update_record(self, table_name, record_id, data):
@@ -122,7 +120,6 @@ class DatabaseManager:
             return True
         except Exception as e:
             logging.error(f"更新 {table_name} 记录ID {record_id} 失败: {e}")
-            messagebox.showerror("云端错误", f"更新记录失败: \n{e}")
             return False
             
     def delete_record(self, table_name, record_id):
@@ -184,7 +181,7 @@ class DatabaseManager:
                 if response.count > 0:
                     duplicate_count += 1
                 else:
-                    new_records.append(record)
+                    new_records.append(record)from tkinter import messagebox
             return new_records, duplicate_count
         except Exception as e:
             logging.error(f"检查重复记录失败: {e}")
@@ -198,5 +195,4 @@ class DatabaseManager:
             return len(records)
         except Exception as e:
             logging.error(f"批量插入失败: {e}")
-            messagebox.showerror("云端错误", f"批量导入失败: \n{e}")
             return 0
